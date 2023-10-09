@@ -15,6 +15,30 @@
   - [Token JWT](https://jwt.io/)
   - [Angular](https://angular.io/)
   - [TypeScript](https://www.typescriptlang.org/)
+ 
+  ## Descripción del Proyecto
+  
+El foro alura es un lugar donde todos los alumnos de la plataforma alura
+pueden colocar sus preguntas sobre determinados cursos, este mágico lugar está lleno de mucho aprendizaje y de colaboración entre alumnos, profesores y moderadores.
+
+Ya sabemos para que sirve el foro y sabemos cómo se ve, pero ¿sabemos cómo funciona por detrás? Es decir ¿dónde se almacenan las informaciones? ¿cómo se tratan esos datos para que se relacione un tópico con una respuesta, o como se relacionan los usuarios con las respuestas de un tópico?
+
+Ese es nuestro desafío, vamos a replicar a nivel de back end este proceso, y para eso crearemos una API REST usando Spring.
+
+Nuestra API va a centrarse específicamente en los tópicos, y debe permitir a los usuarios:
+
+1) Crear un nuevo tópico
+2) Mostrar todos los tópicos creados
+3) Mostrar un tópico específico
+4) Actualizar un tópico
+5) Eliminar un tópico
+Es lo que conocemos comúnmente como CRUD (CREATE, READ, UPDATE, DELETE) y es muy parecido con lo que desarrollamos en el Hotel Alura, pero ahora usando un framework que va a facilitar mucho nuestro trabajo un nuevo modelo de arquitectura de software conocido como REST.
+
+### Al final de nuestro desarrollo en esta Sprint tendremos una API REST con las siguientes funcionalidades
+
+API con rutas implementadas siguiendo las mejores prácticas del modelo REST;
+Validaciones realizadas según reglas de negócio;
+Implementación de una base de datos para la persistencia de la información;
 
 <img src="https://github.com/CFPH31415/challengeoneforoalura5/blob/main/imagenes/home.jpg?raw=true"/>
 <img src="https://github.com/CFPH31415/challengeoneforoalura5/blob/main/imagenes/topics.jpg?raw=true"/>
