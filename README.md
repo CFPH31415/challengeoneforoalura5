@@ -19,8 +19,8 @@
 
 
 
-<img src="https://github.com/CFPH31415/challengeoneforoalura5/blob/main/imagenes/home.jpg?raw=true"/>
-<img src="https://github.com/CFPH31415/challengeoneforoalura5/blob/main/imagenes/topics.jpg?raw=true"/>
+<img src="https://github.com/CFPH31415/challengeoneforoalura5/imagenes/home.jpg?raw=true"/>
+<img src="https://github.com/CFPH31415/challengeoneforoalura5/imagenes/topics.jpg?raw=true"/>
 
 
 💙 Alura Latam
