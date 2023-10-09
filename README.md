@@ -17,15 +17,8 @@
   - [TypeScript](https://www.typescriptlang.org/)
 
 
-
-
-<<<<<<< HEAD
-<img src="https://github.com/CFPH31415/challengeoneforoalura5/imagenes/home.jpg?raw=true"/>
-<img src="https://github.com/CFPH31415/challengeoneforoalura5/imagenes/topics.jpg?raw=true"/>
-=======
 <img src="https://github.com/CFPH31415/challengeoneforoalura5/blob/main/imagenes/topics.jpg?raw=true"/>
 <img src="https://github.com/CFPH31415/challengeoneforoalura5/blob/main/imagenes/home.jpg?raw=true"/>
->>>>>>> 0e0b1f605d37edc0af534365f89a377b10f4383b
 
 
 💙 Alura Latam
