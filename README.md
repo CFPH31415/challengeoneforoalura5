@@ -16,9 +16,8 @@
   - [Angular](https://angular.io/)
   - [TypeScript](https://www.typescriptlang.org/)
 
-
-<img src="https://github.com/CFPH31415/challengeoneforoalura5/blob/main/imagenes/topics.jpg?raw=true"/>
 <img src="https://github.com/CFPH31415/challengeoneforoalura5/blob/main/imagenes/home.jpg?raw=true"/>
+<img src="https://github.com/CFPH31415/challengeoneforoalura5/blob/main/imagenes/topics.jpg?raw=true"/>
 
 
 💙 Alura Latam
