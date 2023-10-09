@@ -1,0 +1,87 @@
+.modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal__content {
+  background-color: #f0f0f0;
+  margin: 10% auto;
+  padding: 30px;
+  border: 1px solid #ccc;
+  width: 60%;
+  max-width: 600px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.close {
+  color: #333;
+  float: right;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.close:hover {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.modal__content form .form-group {
+  margin-bottom: 20px;
+}
+
+.modal__content form .form-group > input, textarea, select {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.modal__content form .form-group > label {
+  font-weight: bold;
+}
+
+.modal__button {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+.modal__button button {
+  padding: 12px 24px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.modal__button button.registrar__topico {
+  background: #00cc99;
+  border: 1px solid #00cc99;
+  color: #fff;
+}
+
+.modal__button button.registrar__topico:hover {
+  background: #009966;
+}
+
+.modal__button button.cancelar__topico {
+  background: #ff3333;
+  border: 1px solid #ff3333;
+  color: #fff;
+}
+
+.modal__button button.cancelar__topico:hover {
+  background: #ff0000;
+}

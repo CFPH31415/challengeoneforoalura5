@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #333; 
+  }
+  
+  .login__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(to right, #1564f7, #3478f8); 
+  }
+  
+  .border__container {
+    border: 1px solid #ddd; 
+    border-radius: 10px;
+    background-color: #fff; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 400px;
+    min-width: 35%;
+    padding: 30px;
+  }
+  
+  .title__login {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333; 
+  }
+  
+  .information__text {
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: #555; 
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    border: 1px solid #ddd; 
+    border-radius: 5px;
+    padding: 12px; 
+    width: 100%;
+    margin-bottom: 20px;
+    color: #555; 
+    font-size: 16px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .button {
+    background: #f42a16;
+    padding: 12px;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #7b7f9a; 
+    font-size: 18px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background: #ff5631; 
+  }
+  
+  .text__login {
+    margin-top: 15px;
+    font-size: 14px;
+    color: #777; 
+  }
+  
+  .text__login span {
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  .text__login a {
+    color: #f42a16;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  .text__login a:hover {
+    text-decoration: underline;
+  }
+  
+  .expired-session-message {
+    color: #f42a16;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
