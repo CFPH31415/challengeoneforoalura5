@@ -33,7 +33,7 @@ Nuestra API va a centrarse específicamente en los tópicos, y debe permitir a l
 
 Es lo que conocemos comúnmente como CRUD (CREATE, READ, UPDATE, DELETE) y es muy parecido con lo que desarrollamos en el Hotel Alura, pero ahora usando un framework que va a facilitar mucho nuestro trabajo un nuevo modelo de arquitectura de software conocido como REST.
 
-## Al final de nuestro desarrollo en esta Sprint tendremos una API REST con las siguientes funcionalidades
+# Al final de nuestro desarrollo en esta Sprint tendremos una API REST con las siguientes funcionalidades
 
 1) API con rutas implementadas siguiendo las mejores prácticas del modelo REST;
 2) Validaciones realizadas según reglas de negócio;
