@@ -21,7 +21,6 @@
 El foro alura es un lugar donde todos los alumnos de la plataforma alura
 pueden colocar sus preguntas sobre determinados cursos, este mágico lugar está lleno de mucho aprendizaje y de colaboración entre alumnos, profesores y moderadores.
 
-<<<<<<< HEAD
 Ese es nuestro desafío, vamos a replicar a nivel de back end este proceso, y para eso crearemos una API REST usando Spring.
 
 Nuestra API va a centrarse específicamente en los tópicos, y debe permitir a los usuarios:
@@ -33,29 +32,19 @@ Ese es nuestro desafío, vamos a replicar a nivel de back end este proceso, y pa
 
 Nuestra API va a centrarse específicamente en los tópicos, y debe permitir a los usuarios:
 
->>>>>>> 21c33e52e4399ec95d612b40975818fe5968f88b
 1) Crear un nuevo tópico
 2) Mostrar todos los tópicos creados
 3) Mostrar un tópico específico
 4) Actualizar un tópico
 5) Eliminar un tópico
-<<<<<<< HEAD
 
-=======
->>>>>>> 21c33e52e4399ec95d612b40975818fe5968f88b
 Es lo que conocemos comúnmente como CRUD (CREATE, READ, UPDATE, DELETE) y es muy parecido con lo que desarrollamos en el Hotel Alura, pero ahora usando un framework que va a facilitar mucho nuestro trabajo un nuevo modelo de arquitectura de software conocido como REST.
 
 ### Al final de nuestro desarrollo en esta Sprint tendremos una API REST con las siguientes funcionalidades
 
-<<<<<<< HEAD
 1) API con rutas implementadas siguiendo las mejores prácticas del modelo REST;
 2) Validaciones realizadas según reglas de negócio;
 3) Implementación de una base de datos para la persistencia de la información;
-=======
-API con rutas implementadas siguiendo las mejores prácticas del modelo REST;
-Validaciones realizadas según reglas de negócio;
-Implementación de una base de datos para la persistencia de la información;
->>>>>>> 21c33e52e4399ec95d612b40975818fe5968f88b
 
 <img src="https://github.com/CFPH31415/challengeoneforoalura5/blob/main/imagenes/home.jpg?raw=true"/>
 <img src="https://github.com/CFPH31415/challengeoneforoalura5/blob/main/imagenes/topics.jpg?raw=true"/>
