@@ -15,6 +15,7 @@
   - [Token JWT](https://jwt.io/)
   - [Angular](https://angular.io/)
   - [TypeScript](https://www.typescriptlang.org/)
+  - [Insomnia](https://insomnia.rest/)
  
   ## Descripción del Proyecto
   
